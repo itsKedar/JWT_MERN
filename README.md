@@ -4,6 +4,9 @@ This is MERN Project which uses JWT Authentication. This project shows higher se
 It uses MongoDB Atlas for database.
 
 
+
+
+
 # Following dependencies are used in this project
 1) Node 
 2) Express
